@@ -15,7 +15,7 @@ A complete PHP and MySQL based web application for managing user data with profi
 
 ## Requirements
 
-- Web server (Apache, Nginx, etc.)
+- Web server (Apache, Nginx, xampp.)
 - PHP 7.4 or higher
 - MySQL 5.7 or higher
 - File upload permissions
